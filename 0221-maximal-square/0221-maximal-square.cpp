@@ -1,32 +1,32 @@
 class Solution {
 public:
-    int solve(vector<vector<char>>& matrix, int row, int col, int &maxi, vector<vector<int>> &dp) {
-        if (row >= matrix.size() || col >= matrix[0].size()){
-            return 0;
-        }
+    int solve(vector<vector<char>>& matrix, int &maxi) {
+        int row = matrix.size();
+        int col = matrix[0].size();
 
-        if(dp[row][col] != -1){
-            return dp[row][col];
-        }
+        vector<vector<int>> dp(row+1,vector<int>(col+1,0));
 
-        int right = solve(matrix, row, col + 1, maxi, dp);
-        int diagonal = solve(matrix, row + 1, col + 1, maxi, dp);
-        int down = solve(matrix, row + 1, col, maxi, dp);
+        for(int i=row-1; i>=0; i--){
+            for(int j=col-1; j>=0; j--){
+                int right = dp[i][j+1];
+                int diagonal = dp[i+1][j+1];
+                int down = dp[i+1][j]; 
 
-        if (matrix[row][col] == '1') {
-            dp[row][col] = 1 + min(right, min(diagonal, down));
-            maxi = max(maxi, dp[row][col]);
-            return dp[row][col];
+                if (matrix[i][j] == '1') {
+                    dp[i][j] = 1 + min(right, min(diagonal, down));
+                    maxi = max(maxi, dp[i][j]);
+                }
+                else{
+                    dp[i][j] = 0;
+                } 
+            }
         }
-        else{
-            return 0;
-        } 
+        return dp[0][0];
     }
 
     int maximalSquare(vector<vector<char>>& matrix) {
         int maxi = 0;
-        vector<vector<int>> dp(matrix.size(),vector<int>(matrix[0].size(),-1));
-        solve(matrix, 0, 0, maxi, dp);
+        solve(matrix, maxi);
         return maxi * maxi;
     }
 };
