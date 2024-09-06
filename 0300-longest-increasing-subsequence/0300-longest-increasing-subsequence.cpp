@@ -1,22 +1,22 @@
 class Solution {
 public:
     int solve(int n, vector<int>& nums){
-        vector<int> currRow(n+1, 0);
-        vector<int> nextRow(n+1, 0);
-
-        for(int curr = n-1; curr >= 0; curr--){
-            for(int prev = curr-1; prev >= -1; prev--){
-                int incl = 0;
-
-                if(prev == -1 || nums[curr] > nums[prev]){
-                    incl = 1 + nextRow[curr+1];
-                }
-                int excl = 0 + nextRow[prev+1];
-                currRow[prev+1] = max(incl, excl);
-            }  
-            nextRow = currRow;
+        if(n == 0){
+            return 0;
         }
-        return nextRow[0];
+
+        vector<int> ans;
+        ans.push_back(nums[0]);
+
+        for(int i=1; i<n; i++){
+            if(nums[i] > ans.back()){
+                ans.push_back(nums[i]);
+            }
+
+            int index = lower_bound(ans.begin(), ans.end(), nums[i]) - ans.begin();
+            ans[index] = nums[i];
+        }
+        return ans.size();
     }
 
     int lengthOfLIS(vector<int>& nums) {
