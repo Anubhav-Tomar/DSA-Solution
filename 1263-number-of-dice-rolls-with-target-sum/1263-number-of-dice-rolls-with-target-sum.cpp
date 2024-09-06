@@ -24,8 +24,7 @@ public:
         for(int i=1; i<=faces; i++){
             ans = (ans + solve(dice-1, faces, target-i, dp) )% mod;
         }
-        dp[dice][target] = ans;
-        return dp[dice][target];
+        return dp[dice][target] = ans;
     }
 
     int numRollsToTarget(int n, int k, int target) {
