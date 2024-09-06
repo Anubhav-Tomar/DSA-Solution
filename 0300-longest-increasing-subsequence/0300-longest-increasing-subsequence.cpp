@@ -1,20 +1,22 @@
 class Solution {
 public:
     int solve(int n, vector<int>& nums){
-        vector<vector<int> > dp(n+1, vector<int>(n+1, 0));
+        vector<int> currRow(n+1, 0);
+        vector<int> nextRow(n+1, 0);
 
         for(int curr = n-1; curr >= 0; curr--){
             for(int prev = curr-1; prev >= -1; prev--){
                 int incl = 0;
 
                 if(prev == -1 || nums[curr] > nums[prev]){
-                    incl = 1 + dp[curr+1][curr+1];
+                    incl = 1 + nextRow[curr+1];
                 }
-                int excl = 0 + dp[curr+1][prev+1];
-                dp[curr][prev+1] = max(incl, excl);
+                int excl = 0 + nextRow[prev+1];
+                currRow[prev+1] = max(incl, excl);
             }  
+            nextRow = currRow;
         }
-        return dp[0][0];
+        return nextRow[0];
     }
 
     int lengthOfLIS(vector<int>& nums) {
