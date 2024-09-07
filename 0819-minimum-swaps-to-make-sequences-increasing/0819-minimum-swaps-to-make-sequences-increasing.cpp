@@ -12,9 +12,7 @@ public:
                 int ans = INT_MAX;
 
                 if(swapped){
-                    int temp = prev1;
-                    prev1 = prev2;
-                    prev2 = temp;
+                    swap(prev1, prev2);
                 }
                 if(nums1[index] > prev1 && nums2[index] > prev2){
                     ans = dp[index+1][0];
