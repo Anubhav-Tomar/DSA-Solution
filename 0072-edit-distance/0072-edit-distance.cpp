@@ -23,7 +23,7 @@ public:
             int deleteAns = 1 + solve(a, b, i+1, j, dp);
             int replaceAns = 1 + solve(a, b, i+1, j+1, dp);
 
-            ans = min({insertAns, deleteAns, replaceAns});
+            ans = min(insertAns, min(deleteAns, replaceAns));
         }
         return dp[i][j] = ans;
     }
