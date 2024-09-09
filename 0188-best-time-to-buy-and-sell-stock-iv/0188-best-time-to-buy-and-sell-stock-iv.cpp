@@ -1,32 +1,29 @@
 class Solution {
 public:
-    int solve(int index, int buy, vector<int>& prices, int k, vector<vector<vector<int> > >& dp){
-        if(index == prices.size()){
-            return 0;
-        }
+    int solve(vector<int>& prices, int k){
+        int n = prices.size();
+        vector<vector<int> > curr(2,vector<int>(k+1,0));
+        vector<vector<int> > next(2,vector<int>(k+1,0));
 
-        if(k == 0){
-            return 0;
+        for(int index=n-1; index>=0; index--){
+            for(int buy=0; buy<=1; buy++){
+                for(int limits=1; limits<=k; limits++){
+                    int profit = 0;
+                    if(buy){
+                        profit = max(-prices[index] + next[0][limits], 0 + next[1][limits]);
+                    }
+                    else{
+                        profit = max(prices[index] + next[1][limits-1], 0 + next[0][limits]);
+                    }
+                    curr[buy][limits] = profit;
+                }
+            }
+            next = curr;
         }
-
-        if(dp[index][buy][k] != -1){
-            return dp[index][buy][k];
-        }
-
-        int profit = 0;
-
-        if(buy){
-            profit = max(-prices[index] + solve(index+1, 0, prices, k, dp), 0 + solve(index+1, 1, prices, k, dp));
-        }
-        else{
-             profit = max(prices[index] + solve(index+1, 1, prices, k-1, dp), 0 + solve(index+1, 0, prices, k, dp));
-        }
-        return dp[index][buy][k] = profit;
+        return curr[1][k];
     }
 
     int maxProfit(int k, vector<int>& prices) {
-        int n = prices.size();
-        vector<vector<vector<int> > > dp(n, vector<vector<int> >(2, vector<int>(k+1, -1) ) );
-        return solve(0, 1, prices, k, dp);
+        return solve(prices, k);
     }
 };
