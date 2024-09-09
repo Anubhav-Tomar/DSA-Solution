@@ -1,32 +1,27 @@
 class Solution {
 public:
-    int solve(int index, int buy, vector<int>& prices, int limits, vector<vector<vector<int> > >& dp){
-        if(index == prices.size()){
-            return 0;
-        }
+    int solve(vector<int>& prices){
+        int n = prices.size();
+        vector<vector<vector<int> > > dp(n+1, vector<vector<int> >(2, vector<int>(3, 0) ) );
 
-        if(limits == 0){
-            return 0;
+        for(int index=n-1; index>=0; index--){
+            for(int buy=0; buy<=1; buy++){
+                for(int limits=1; limits<=2; limits++){
+                    int profit = 0;
+                    if(buy){
+                        profit = max(-prices[index] + dp[index+1][0][limits], 0 + dp[index+1][1][limits]);
+                    }
+                    else{
+                        profit = max(prices[index] + dp[index+1][1][limits-1], 0 + dp[index+1][0][limits]);
+                    }
+                    dp[index][buy][limits] = profit;
+                }
+            }
         }
-
-        if(dp[index][buy][limits] != -1){
-            return dp[index][buy][limits];
-        }
-
-        int profit = 0;
-
-        if(buy){
-            profit = max(-prices[index] + solve(index+1, 0, prices, limits, dp), 0 + solve(index+1, 1, prices, limits, dp));
-        }
-        else{
-             profit = max(prices[index] + solve(index+1, 1, prices, limits-1, dp), 0 + solve(index+1, 0, prices, limits, dp));
-        }
-        return dp[index][buy][limits] = profit;
+        return dp[0][1][2];
     }
 
     int maxProfit(vector<int>& prices) {
-        int n = prices.size();
-        vector<vector<vector<int> > > dp(n, vector<vector<int> >(2, vector<int>(3, -1) ) );
-        return solve(0, 1, prices, 2, dp);
+        return solve(prices);
     }
 };
