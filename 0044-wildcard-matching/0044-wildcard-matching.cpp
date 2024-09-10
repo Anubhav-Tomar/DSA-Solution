@@ -1,9 +1,10 @@
 class Solution {
 public:
     bool solve(string &str, string &pattern){
-        vector<vector<int> > dp(str.length()+1, vector<int>(pattern.length()+1, 0));
+        vector<int> prev(pattern.length()+1, 0);
+        vector<int> curr(pattern.length()+1, 0);
 
-        dp[0][0] = true;
+        prev[0] = true;
 
         for(int j=1; j<=pattern.length(); j++){
             bool flag = true;
@@ -13,25 +14,26 @@ public:
                     break;
                 }
             }
-            dp[0][j] = flag;
+            prev[j] = flag;
         }
 
         for(int i=1; i <= str.length(); i++){
             for(int j=1; j <= pattern.length(); j++){
                 if(str[i-1] == pattern[j-1] || pattern[j-1] == '?'){
-                    dp[i][j] = dp[i-1][j-1];
+                    curr[j] = prev[j-1];
                 }
 
                 else if(pattern[j-1] == '*'){
-                    dp[i][j] = (dp[i-1][j] || dp[i][j-1]);
+                    curr[j] = (prev[j] || curr[j-1]);
                 }
 
                 else{
-                    dp[i][j] = false;
+                    curr[j] = false;
                 }
             }
+            prev = curr;
         }
-        return dp[str.length()][pattern.length()];
+        return prev[pattern.length()];
     }
 
     bool isMatch(string s, string p) {
