@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1489-pizza-with-3n-slices](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/1489-pizza-with-3n-slices) |
 | [1503-reducing-dishes](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/1503-reducing-dishes) |
 | [1952-minimum-sideway-jumps](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/1952-minimum-sideway-jumps) |
+| [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -66,12 +67,14 @@ A collection of LeetCode questions to ace the coding interview!
 | [1489-pizza-with-3n-slices](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/1489-pizza-with-3n-slices) |
 | [1503-reducing-dishes](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/1503-reducing-dishes) |
 | [1952-minimum-sideway-jumps](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/1952-minimum-sideway-jumps) |
+| [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 ## Sorting
 |  |
 | ------- |
 | [0354-russian-doll-envelopes](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0354-russian-doll-envelopes) |
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [1503-reducing-dishes](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/1503-reducing-dishes) |
+| [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 ## Binary Search
 |  |
 | ------- |
