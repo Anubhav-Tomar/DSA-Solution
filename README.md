@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0085-maximal-rectangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0072-edit-distance) |
+| [0085-maximal-rectangle](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0085-maximal-rectangle) |
 | [0096-unique-binary-search-trees](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0096-unique-binary-search-trees) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Matrix
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0085-maximal-rectangle) |
 | [0221-maximal-square](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0221-maximal-square) |
 ## Greedy
 |  |
@@ -106,10 +109,12 @@ A collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0085-maximal-rectangle) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0085-maximal-rectangle) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 ## String
 |  |
