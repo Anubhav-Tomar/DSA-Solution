@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0085-maximal-rectangle](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0085-maximal-rectangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0128-longest-consecutive-sequence](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0128-longest-consecutive-sequence) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0221-maximal-square](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0238-product-of-array-except-self) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0128-longest-consecutive-sequence) |
 | [0347-top-k-frequent-elements](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [1087-longest-arithmetic-subsequence](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/1087-longest-arithmetic-subsequence) |
@@ -169,4 +171,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0151-reverse-words-in-a-string) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
