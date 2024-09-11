@@ -18,9 +18,8 @@ public:
         vector<int> ans;
 
         while(!pq.empty()){
-            pair<int, int> temp = pq.top();
+            ans.push_back(pq.top().second);
             pq.pop();
-            ans.push_back(temp.second);
         }
         return ans;
     }
