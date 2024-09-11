@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0221-maximal-square](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0221-maximal-square) |
+| [0238-product-of-array-except-self](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0238-product-of-array-except-self) |
 | [0300-longest-increasing-subsequence](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0354-russian-doll-envelopes](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0354-russian-doll-envelopes) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0560-subarray-sum-equals-k) |
 ## Divide and Conquer
 |  |
