@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0044-wildcard-matching](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0072-edit-distance) |
+| [0151-reverse-words-in-a-string](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0151-reverse-words-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0516-longest-palindromic-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/1250-longest-common-subsequence) |
 ## Recursion
@@ -162,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0347-top-k-frequent-elements) |
+## Two Pointers
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
