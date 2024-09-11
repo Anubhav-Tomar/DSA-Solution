@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0221-maximal-square](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0300-longest-increasing-subsequence) |
+| [0347-top-k-frequent-elements](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0354-russian-doll-envelopes](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0354-russian-doll-envelopes) |
 | [0416-partition-equal-subset-sum](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0416-partition-equal-subset-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0560-subarray-sum-equals-k) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0049-group-anagrams) |
+| [0347-top-k-frequent-elements](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0354-russian-doll-envelopes](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0354-russian-doll-envelopes) |
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [1503-reducing-dishes](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/1503-reducing-dishes) |
@@ -87,11 +89,13 @@ A collection of LeetCode questions to ace the coding interview!
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0347-top-k-frequent-elements) |
 | [1489-pizza-with-3n-slices](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/1489-pizza-with-3n-slices) |
 ## Hash Table
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0049-group-anagrams) |
+| [0347-top-k-frequent-elements](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [1087-longest-arithmetic-subsequence](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/1087-longest-arithmetic-subsequence) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
@@ -142,4 +146,20 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0560-subarray-sum-equals-k) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
