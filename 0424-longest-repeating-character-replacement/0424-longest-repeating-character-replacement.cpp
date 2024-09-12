@@ -1,28 +1,23 @@
 class Solution {
 public:
     int characterReplacement(string s, int k) {
+        int n = s.size(); 
+        int i = 0;
+        int j = 0;
+        int len = 0;
         int ans = 0;
-        int n = s.length();
 
-        for(int ch='A'; ch<='Z'; ch++){
-            int i = 0;
-            int j = 0;
-            int count = 0;
+        vector<int> hash(26,0);
 
-            while(j < n){
-                if(s[j] != ch){
-                    count++;
-                }
-
-                while(count > k){
-                    ans = max(ans, j-i);
-                    if(s[i++] != ch){
-                        count--;
-                    } 
-                }
-                j++;
+        while(j < n){
+            hash[s[j]-'A']++;
+            len = max(len, hash[s[j]-'A']);
+            if((j - i + 1) - len > k){
+                hash[s[i]-'A']--;
+                i++;
             }
-            ans = max(ans, j-i);
+            ans = max(ans, j-i+1);
+            j++;
         }
         return ans;
     }
