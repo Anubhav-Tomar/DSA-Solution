@@ -4,14 +4,14 @@ public:
         int n = height.size();
         int i = 0;
         int j = n-1;
-        int maxHeight = INT_MIN;
+        int ans = INT_MIN;
 
         while(i<j){
             int h1 = height[i];
             int h2 = height[j];
 
             int area = (j-i) * (min(h1, h2));
-            maxHeight = max(maxHeight, area);
+            ans = max(ans, area);
 
             if(h1 > h2){
                 j--;
@@ -20,6 +20,6 @@ public:
                 i++;
             }
         }
-        return maxHeight;
+        return ans;
     }
 };
