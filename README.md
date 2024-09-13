@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0011-container-with-most-water](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0015-3sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0151-reverse-words-in-a-string) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0143-reorder-list) |
