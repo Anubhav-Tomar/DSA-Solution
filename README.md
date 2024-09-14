@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0096-unique-binary-search-trees) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0226-invert-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0096-unique-binary-search-trees) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0226-invert-binary-tree) |
 ## Game Theory
 |  |
@@ -216,9 +218,11 @@ A collection of LeetCode questions to ace the coding interview!
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0226-invert-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
