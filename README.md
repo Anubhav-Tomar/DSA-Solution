@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0128-longest-consecutive-sequence](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0200-number-of-islands](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0238-product-of-array-except-self) |
 | [0300-longest-increasing-subsequence](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0300-longest-increasing-subsequence) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0079-word-search](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0085-maximal-rectangle) |
+| [0200-number-of-islands](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0221-maximal-square) |
 ## Greedy
 |  |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0200-number-of-islands) |
 ## Sliding Window
 |  |
 | ------- |
@@ -241,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0100-same-tree](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0200-number-of-islands](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0572-subtree-of-another-tree](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0572-subtree-of-another-tree) |
@@ -250,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0100-same-tree](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0226-invert-binary-tree) |
 ## String Matching
 |  |
