@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0011-container-with-most-water](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0033-search-in-rotated-sorted-array) |
+| [0039-combination-sum](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0049-group-anagrams) |
 | [0085-maximal-rectangle](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0085-maximal-rectangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -255,4 +256,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0572-subtree-of-another-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
