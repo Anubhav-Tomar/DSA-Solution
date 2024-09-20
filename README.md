@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0053-maximum-subarray) |
+| [0190-reverse-bits](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0190-reverse-bits) |
 | [0347-top-k-frequent-elements](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
@@ -319,5 +320,6 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0190-reverse-bits) |
 | [0338-counting-bits](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
