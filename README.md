@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0139-word-break](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0221-maximal-square](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0221-maximal-square) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0076-minimum-window-substring](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0133-clone-graph) |
+| [0139-word-break](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0347-top-k-frequent-elements) |
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0072-edit-distance](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0079-word-search) |
+| [0139-word-break](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0424-longest-repeating-character-replacement) |
@@ -284,4 +288,9 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0139-word-break) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
