@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0221-maximal-square](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0300-longest-increasing-subsequence) |
+| [0338-counting-bits](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0338-counting-bits) |
 | [0354-russian-doll-envelopes](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0354-russian-doll-envelopes) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0416-partition-equal-subset-sum) |
@@ -315,4 +316,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0062-unique-paths) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
