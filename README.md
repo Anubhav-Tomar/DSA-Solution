@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0055-jump-game](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0057-insert-interval) |
+| [0073-set-matrix-zeroes](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0085-maximal-rectangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0200-number-of-islands) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0133-clone-graph) |
