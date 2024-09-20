@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0033-search-in-rotated-sorted-array](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0053-maximum-subarray) |
 | [0079-word-search](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0085-maximal-rectangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0044-wildcard-matching) |
+| [0053-maximum-subarray](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0072-edit-distance) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0053-maximum-subarray) |
 | [0347-top-k-frequent-elements](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
