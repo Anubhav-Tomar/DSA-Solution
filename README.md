@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0033-search-in-rotated-sorted-array](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0039-combination-sum) |
+| [0045-jump-game-ii](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0055-jump-game) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0062-unique-paths) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0011-container-with-most-water](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0435-non-overlapping-intervals](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0435-non-overlapping-intervals) |
