@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0217-contains-duplicate](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0217-contains-duplicate) |
 | [0221-maximal-square](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0239-sliding-window-maximum) |
 | [0300-longest-increasing-subsequence](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0354-russian-doll-envelopes](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0354-russian-doll-envelopes) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0347-top-k-frequent-elements) |
 | [1489-pizza-with-3n-slices](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/1489-pizza-with-3n-slices) |
 ## Hash Table
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0076-minimum-window-substring) |
+| [0239-sliding-window-maximum](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0424-longest-repeating-character-replacement) |
 ## Linked List
 |  |
@@ -346,4 +349,12 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0190-reverse-bits](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0190-reverse-bits) |
 | [0338-counting-bits](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0338-counting-bits) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
