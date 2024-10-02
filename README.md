@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0085-maximal-rectangle) |
 | [0143-reorder-list](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0143-reorder-list) |
+| [0155-min-stack](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0155-min-stack) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 ## Monotonic Stack
 |  |
@@ -357,4 +358,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0239-sliding-window-maximum) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
