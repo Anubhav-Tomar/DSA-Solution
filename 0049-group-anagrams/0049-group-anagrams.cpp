@@ -13,7 +13,6 @@ public:
         for(auto i: map){
             ans.push_back(i.second);
         }
-
         return ans;
     }
 };
