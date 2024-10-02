@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0045-jump-game-ii) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0022-generate-parentheses](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0072-edit-distance) |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0039-combination-sum) |
 | [0079-word-search](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0079-word-search) |
 ## Graph
