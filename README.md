@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0435-non-overlapping-intervals](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0435-non-overlapping-intervals) |
 | [0560-subarray-sum-equals-k](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0739-daily-temperatures](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0739-daily-temperatures) |
 | [0819-minimum-swaps-to-make-sequences-increasing](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0819-minimum-swaps-to-make-sequences-increasing) |
 | [1087-longest-arithmetic-subsequence](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/1087-longest-arithmetic-subsequence) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/1111-minimum-score-triangulation-of-polygon) |
@@ -217,12 +218,14 @@ A collection of LeetCode questions to ace the coding interview!
 | [0143-reorder-list](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0155-min-stack) |
+| [0739-daily-temperatures](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0739-daily-temperatures) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0085-maximal-rectangle) |
+| [0739-daily-temperatures](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0739-daily-temperatures) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 ## String
 |  |
