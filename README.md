@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0033-search-in-rotated-sorted-array) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0190-reverse-bits) |
 | [0347-top-k-frequent-elements](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0347-top-k-frequent-elements) |
