@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0055-jump-game](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0057-insert-interval) |
+| [0066-plus-one](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0085-maximal-rectangle) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0009-palindrome-number](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0150-evaluate-reverse-polish-notation) |
