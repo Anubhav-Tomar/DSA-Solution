@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0199-binary-tree-right-side-view](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0572-subtree-of-another-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0199-binary-tree-right-side-view](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0572-subtree-of-another-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0139-word-break](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0242-valid-anagram) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0516-longest-palindromic-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/1250-longest-common-subsequence) |
@@ -340,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0200-number-of-islands](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0572-subtree-of-another-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -353,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0199-binary-tree-right-side-view](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## String Matching
 |  |
@@ -403,4 +408,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0155-min-stack) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0297-serialize-and-deserialize-binary-tree) |
 <!---LeetCode Topics End-->
