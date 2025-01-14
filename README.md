@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0739-daily-temperatures](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0739-daily-temperatures) |
 | [0819-minimum-swaps-to-make-sequences-increasing](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0819-minimum-swaps-to-make-sequences-increasing) |
 | [0907-koko-eating-bananas](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0907-koko-eating-bananas) |
+| [1014-k-closest-points-to-origin](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/1014-k-closest-points-to-origin) |
 | [1087-longest-arithmetic-subsequence](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/1087-longest-arithmetic-subsequence) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1127-last-stone-weight](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/1127-last-stone-weight) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0347-top-k-frequent-elements](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0354-russian-doll-envelopes](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0354-russian-doll-envelopes) |
 | [0435-non-overlapping-intervals](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0435-non-overlapping-intervals) |
+| [1014-k-closest-points-to-origin](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/1014-k-closest-points-to-origin) |
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [1503-reducing-dishes](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/1503-reducing-dishes) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0239-sliding-window-maximum](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1014-k-closest-points-to-origin](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/1127-last-stone-weight) |
 | [1489-pizza-with-3n-slices](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/1489-pizza-with-3n-slices) |
 ## Hash Table
@@ -191,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0096-unique-binary-search-trees](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [1014-k-closest-points-to-origin](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/1014-k-closest-points-to-origin) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Tree
 |  |
@@ -291,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0053-maximum-subarray](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0190-reverse-bits) |
 | [0347-top-k-frequent-elements](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/1014-k-closest-points-to-origin) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -303,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/1014-k-closest-points-to-origin) |
 ## Two Pointers
 |  |
 | ------- |
@@ -420,4 +426,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0789-kth-largest-element-in-a-stream) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
