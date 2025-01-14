@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0907-koko-eating-bananas](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0907-koko-eating-bananas) |
 | [1087-longest-arithmetic-subsequence](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/1087-longest-arithmetic-subsequence) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1127-last-stone-weight](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/1127-last-stone-weight) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/1367-maximum-height-by-stacking-cuboids) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0239-sliding-window-maximum](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1127-last-stone-weight](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/1127-last-stone-weight) |
 | [1489-pizza-with-3n-slices](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/1489-pizza-with-3n-slices) |
 ## Hash Table
 |  |
