@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0416-partition-equal-subset-sum](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0435-non-overlapping-intervals) |
 | [0560-subarray-sum-equals-k](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0560-subarray-sum-equals-k) |
+| [0695-max-area-of-island](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0695-max-area-of-island) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0739-daily-temperatures](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0739-daily-temperatures) |
 | [0819-minimum-swaps-to-make-sequences-increasing](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0819-minimum-swaps-to-make-sequences-increasing) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0085-maximal-rectangle](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0221-maximal-square) |
+| [0695-max-area-of-island](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0695-max-area-of-island) |
 ## Greedy
 |  |
 | ------- |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0695-max-area-of-island) |
 ## Sliding Window
 |  |
 | ------- |
@@ -368,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0572-subtree-of-another-tree) |
+| [0695-max-area-of-island](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0695-max-area-of-island) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -380,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0200-number-of-islands](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0695-max-area-of-island](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0695-max-area-of-island) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## String Matching
 |  |
