@@ -372,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0133-clone-graph](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0133-clone-graph](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0695-max-area-of-island) |
@@ -416,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0133-clone-graph) |
+| [0207-course-schedule](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0207-course-schedule) |
 ## Memoization
 |  |
 | ------- |
@@ -458,4 +461,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/1014-k-closest-points-to-origin) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
