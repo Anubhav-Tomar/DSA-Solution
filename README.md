@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0072-edit-distance](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0085-maximal-rectangle) |
 | [0096-unique-binary-search-trees](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0096-unique-binary-search-trees) |
+| [0115-distinct-subsequences](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0115-distinct-subsequences) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0072-edit-distance](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0079-word-search) |
+| [0115-distinct-subsequences](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0139-word-break) |
