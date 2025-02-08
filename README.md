@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [1489-pizza-with-3n-slices](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/1489-pizza-with-3n-slices) |
 | [1503-reducing-dishes](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/1503-reducing-dishes) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1952-minimum-sideway-jumps](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/1952-minimum-sideway-jumps) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
