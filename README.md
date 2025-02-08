@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1952-minimum-sideway-jumps](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/1952-minimum-sideway-jumps) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3429-special-array-i](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/3429-special-array-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Dynamic Programming
 |  |
