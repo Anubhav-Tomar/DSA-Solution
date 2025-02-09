@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1503-reducing-dishes](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/1503-reducing-dishes) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1952-minimum-sideway-jumps](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/1952-minimum-sideway-jumps) |
+| [2058-concatenation-of-array](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/2058-concatenation-of-array) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2448-count-number-of-bad-pairs](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/2448-count-number-of-bad-pairs) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -514,4 +515,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0803-cheapest-flights-within-k-stops) |
+## Simulation
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
