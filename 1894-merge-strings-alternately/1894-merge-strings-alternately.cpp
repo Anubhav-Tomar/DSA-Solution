@@ -4,11 +4,11 @@ public:
         string ans = "";
         int i = 0;
         while(i < word1.size() || i < word2.size()){
-            if(i < word1.length()){
+            if(i < word1.size()){
                 ans += word1[i];
             }
 
-            if(i < word2.length()){
+            if(i < word2.size()){
                 ans += word2[i];
             }
             i++;
