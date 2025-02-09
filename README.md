@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0215-kth-largest-element-in-an-array](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0217-contains-duplicate) |
 | [0221-maximal-square](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0221-maximal-square) |
+| [0229-majority-element-ii](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0287-find-the-duplicate-number) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0075-sort-colors](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0354-russian-doll-envelopes](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0354-russian-doll-envelopes) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0139-word-break](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0424-longest-repeating-character-replacement) |
@@ -352,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0347-top-k-frequent-elements) |
 | [2448-count-number-of-bad-pairs](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/2448-count-number-of-bad-pairs) |
 ## Quickselect
