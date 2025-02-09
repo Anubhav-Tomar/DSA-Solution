@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0036-valid-sudoku](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0040-combination-sum-ii) |
+| [0041-first-missing-positive](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0049-group-anagrams) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0036-valid-sudoku) |
+| [0041-first-missing-positive](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0076-minimum-window-substring) |
