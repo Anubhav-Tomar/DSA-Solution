@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0747-min-cost-climbing-stairs](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0747-min-cost-climbing-stairs) |
 | [0819-minimum-swaps-to-make-sequences-increasing](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0819-minimum-swaps-to-make-sequences-increasing) |
 | [0907-koko-eating-bananas](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0907-koko-eating-bananas) |
+| [0917-boats-to-save-people](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0917-boats-to-save-people) |
 | [1014-k-closest-points-to-origin](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/1036-rotting-oranges) |
 | [1087-longest-arithmetic-subsequence](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/1087-longest-arithmetic-subsequence) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0435-non-overlapping-intervals](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0917-boats-to-save-people](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0917-boats-to-save-people) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1489-pizza-with-3n-slices](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/1489-pizza-with-3n-slices) |
 | [1503-reducing-dishes](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/1503-reducing-dishes) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0347-top-k-frequent-elements](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0354-russian-doll-envelopes](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0354-russian-doll-envelopes) |
 | [0435-non-overlapping-intervals](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0435-non-overlapping-intervals) |
+| [0917-boats-to-save-people](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0917-boats-to-save-people) |
 | [1014-k-closest-points-to-origin](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/1014-k-closest-points-to-origin) |
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [1503-reducing-dishes](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/1503-reducing-dishes) |
@@ -385,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0345-reverse-vowels-of-a-string) |
+| [0917-boats-to-save-people](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0917-boats-to-save-people) |
 | [1894-merge-strings-alternately](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/1894-merge-strings-alternately) |
 ## Union Find
 |  |
