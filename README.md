@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0678-valid-parenthesis-string](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0739-daily-temperatures) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/1228-minimum-cost-tree-from-leaf-values) |
+| [3447-clear-digits](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/3447-clear-digits) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0678-valid-parenthesis-string](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0678-valid-parenthesis-string) |
 | [1250-longest-common-subsequence](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/1250-longest-common-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/1894-merge-strings-alternately) |
+| [3447-clear-digits](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/3447-clear-digits) |
 ## Recursion
 |  |
 | ------- |
@@ -550,4 +552,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2058-concatenation-of-array](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/2058-concatenation-of-array) |
+| [3447-clear-digits](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/3447-clear-digits) |
 <!---LeetCode Topics End-->
