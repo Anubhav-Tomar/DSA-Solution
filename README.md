@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0073-set-matrix-zeroes](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0079-word-search) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0085-maximal-rectangle](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0090-subsets-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0033-search-in-rotated-sorted-array) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0209-minimum-size-subarray-sum) |
