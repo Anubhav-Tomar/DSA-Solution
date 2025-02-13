@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2058-concatenation-of-array](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/2058-concatenation-of-array) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2448-count-number-of-bad-pairs](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/2448-count-number-of-bad-pairs) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/3429-special-array-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1014-k-closest-points-to-origin](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/1127-last-stone-weight) |
 | [1489-pizza-with-3n-slices](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/1489-pizza-with-3n-slices) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -564,5 +566,6 @@ A collection of LeetCode questions to ace the coding interview!
 | [0735-asteroid-collision](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0735-asteroid-collision) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2058-concatenation-of-array](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/2058-concatenation-of-array) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3447-clear-digits](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/3447-clear-digits) |
 <!---LeetCode Topics End-->
