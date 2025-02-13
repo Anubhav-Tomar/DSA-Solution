@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0312-burst-balloons](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0312-burst-balloons) |
 | [0347-top-k-frequent-elements](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0354-russian-doll-envelopes](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0354-russian-doll-envelopes) |
+| [0410-split-array-largest-sum](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0494-target-sum) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0338-counting-bits](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0338-counting-bits) |
 | [0354-russian-doll-envelopes](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0354-russian-doll-envelopes) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [0410-split-array-largest-sum](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0494-target-sum) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0045-jump-game-ii](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0410-split-array-largest-sum](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -201,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0287-find-the-duplicate-number](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0354-russian-doll-envelopes) |
+| [0410-split-array-largest-sum](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0410-split-array-largest-sum) |
 | [0658-find-k-closest-elements](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0658-find-k-closest-elements) |
 | [0907-koko-eating-bananas](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -369,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0238-product-of-array-except-self) |
+| [0410-split-array-largest-sum](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0560-subarray-sum-equals-k) |
 ## Divide and Conquer
 |  |
