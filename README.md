@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1927-maximum-ascending-subarray-sum](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1952-minimum-sideway-jumps](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/1952-minimum-sideway-jumps) |
 | [2058-concatenation-of-array](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/2058-concatenation-of-array) |
+| [2107-find-unique-binary-string](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/2107-find-unique-binary-string) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2448-count-number-of-bad-pairs](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/2448-count-number-of-bad-pairs) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0560-subarray-sum-equals-k](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [1087-longest-arithmetic-subsequence](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/1087-longest-arithmetic-subsequence) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
+| [2107-find-unique-binary-string](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/2107-find-unique-binary-string) |
 | [2448-count-number-of-bad-pairs](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/2448-count-number-of-bad-pairs) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Math
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1250-longest-common-subsequence](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/1250-longest-common-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/1894-merge-strings-alternately) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2107-find-unique-binary-string](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/2107-find-unique-binary-string) |
 | [3447-clear-digits](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/3447-clear-digits) |
 ## Recursion
 |  |
@@ -507,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0090-subsets-ii](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0131-palindrome-partitioning) |
 | [0494-target-sum](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0494-target-sum) |
+| [2107-find-unique-binary-string](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/2107-find-unique-binary-string) |
 ## Graph
 |  |
 | ------- |
