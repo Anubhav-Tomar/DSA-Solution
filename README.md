@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0494-target-sum](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0560-subarray-sum-equals-k) |
+| [0605-can-place-flowers](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0605-can-place-flowers) |
 | [0658-find-k-closest-elements](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0658-find-k-closest-elements) |
 | [0695-max-area-of-island](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0695-max-area-of-island) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0410-split-array-largest-sum](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0435-non-overlapping-intervals) |
+| [0605-can-place-flowers](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0605-can-place-flowers) |
 | [0678-valid-parenthesis-string](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0917-boats-to-save-people](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0917-boats-to-save-people) |
