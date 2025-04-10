@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0300-longest-increasing-subsequence](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0312-burst-balloons) |
+| [0334-increasing-triplet-subsequence](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0354-russian-doll-envelopes](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0354-russian-doll-envelopes) |
 | [0410-split-array-largest-sum](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0410-split-array-largest-sum) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0045-jump-game-ii](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0334-increasing-triplet-subsequence](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0334-increasing-triplet-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0435-non-overlapping-intervals) |
 | [0605-can-place-flowers](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0605-can-place-flowers) |
