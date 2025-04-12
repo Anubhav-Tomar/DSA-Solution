@@ -379,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0678-valid-parenthesis-string](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0678-valid-parenthesis-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1250-longest-common-subsequence](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/1250-longest-common-subsequence) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1894-merge-strings-alternately](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/1894-merge-strings-alternately) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2107-find-unique-binary-string](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/2107-find-unique-binary-string) |
@@ -467,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0424-longest-repeating-character-replacement](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0658-find-k-closest-elements) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Linked List
 |  |
 | ------- |
