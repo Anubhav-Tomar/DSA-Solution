@@ -13,7 +13,7 @@ public:
                 count++;
             }
 
-            while(count > k){
+            if(count > k){
                 if(nums[i] == 0){
                     count--;
                 }
