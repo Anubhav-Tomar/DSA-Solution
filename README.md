@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0917-boats-to-save-people](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0917-boats-to-save-people) |
 | [1014-k-closest-points-to-origin](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/1036-rotting-oranges) |
+| [1046-max-consecutive-ones-iii](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1087-longest-arithmetic-subsequence](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/1087-longest-arithmetic-subsequence) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/1111-minimum-score-triangulation-of-polygon) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0410-split-array-largest-sum](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0410-split-array-largest-sum) |
 | [0658-find-k-closest-elements](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0658-find-k-closest-elements) |
 | [0907-koko-eating-bananas](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0907-koko-eating-bananas) |
+| [1046-max-consecutive-ones-iii](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1087-longest-arithmetic-subsequence](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/1087-longest-arithmetic-subsequence) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -400,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0238-product-of-array-except-self](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0560-subarray-sum-equals-k) |
+| [1046-max-consecutive-ones-iii](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/1046-max-consecutive-ones-iii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -468,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0424-longest-repeating-character-replacement](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0658-find-k-closest-elements) |
+| [1046-max-consecutive-ones-iii](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Linked List
 |  |
