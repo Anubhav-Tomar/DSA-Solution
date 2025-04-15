@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1127-last-stone-weight](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/1127-last-stone-weight) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/1228-minimum-cost-tree-from-leaf-values) |
+| [1319-unique-number-of-occurrences](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/1319-unique-number-of-occurrences) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0424-longest-repeating-character-replacement](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [1087-longest-arithmetic-subsequence](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/1087-longest-arithmetic-subsequence) |
+| [1319-unique-number-of-occurrences](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/1319-unique-number-of-occurrences) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/1798-max-number-of-k-sum-pairs) |
