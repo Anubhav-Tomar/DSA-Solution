@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1014-k-closest-points-to-origin](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/1014-k-closest-points-to-origin) |
 | [1367-maximum-height-by-stacking-cuboids](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/1367-maximum-height-by-stacking-cuboids) |
 | [1503-reducing-dishes](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/1503-reducing-dishes) |
+| [1777-determine-if-two-strings-are-close](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 ## Binary Search
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1319-unique-number-of-occurrences](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/1319-unique-number-of-occurrences) |
 | [1330-longest-arithmetic-subsequence-of-given-difference](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/1330-longest-arithmetic-subsequence-of-given-difference) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1777-determine-if-two-strings-are-close](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2107-find-unique-binary-string](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/2107-find-unique-binary-string) |
 | [2448-count-number-of-bad-pairs](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/2448-count-number-of-bad-pairs) |
@@ -390,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1146-greatest-common-divisor-of-strings](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1250-longest-common-subsequence](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/1250-longest-common-subsequence) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1777-determine-if-two-strings-are-close](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/1894-merge-strings-alternately) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2107-find-unique-binary-string](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/2107-find-unique-binary-string) |
@@ -431,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0229-majority-element-ii](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0347-top-k-frequent-elements) |
+| [1777-determine-if-two-strings-are-close](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/1777-determine-if-two-strings-are-close) |
 | [2448-count-number-of-bad-pairs](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/2448-count-number-of-bad-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Quickselect
