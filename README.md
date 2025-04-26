@@ -467,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0917-boats-to-save-people](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0917-boats-to-save-people) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/1894-merge-strings-alternately) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2551-apply-operations-to-an-array](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Union Find
@@ -500,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0138-copy-list-with-random-pointer](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0143-reorder-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Depth-First Search
 |  |
 | ------- |
