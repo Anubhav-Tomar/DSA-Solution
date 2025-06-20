@@ -280,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2448-count-number-of-bad-pairs](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/2448-count-number-of-bad-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Math
 |  |
 | ------- |
@@ -399,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2107-find-unique-binary-string](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/2107-find-unique-binary-string) |
 | [2470-removing-stars-from-a-string](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/2470-removing-stars-from-a-string) |
 | [3447-clear-digits](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/3447-clear-digits) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Recursion
 |  |
 | ------- |
@@ -439,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1777-determine-if-two-strings-are-close](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/1777-determine-if-two-strings-are-close) |
 | [2448-count-number-of-bad-pairs](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/2448-count-number-of-bad-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Quickselect
 |  |
 | ------- |
