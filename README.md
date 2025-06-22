@@ -378,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0044-wildcard-matching](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0058-length-of-last-word) |
@@ -464,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0016-3sum-closest](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0141-linked-list-cycle) |
@@ -557,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/Anubhav-Tomar/DSA-Solution/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
